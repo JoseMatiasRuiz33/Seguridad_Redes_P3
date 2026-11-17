@@ -1,0 +1,19 @@
+{
+  "dex": 25,
+  "name": "Pikachu",
+  "types": [
+    "electric"
+  ],
+  "attacks": [
+    {
+      "name": "Thunder Shock",
+      "type": "electric",
+      "level": 1
+    },
+    {
+      "name": "Thunder Wave",
+      "type": "electric",
+      "level": 10
+    }
+  ]
+}
